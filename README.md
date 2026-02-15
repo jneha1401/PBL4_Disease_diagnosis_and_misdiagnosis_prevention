@@ -4,7 +4,7 @@
 This repository implements a hybrid AI system for **rare‑disease diagnosis** that treats diagnosis as a similarity‑based retrieval problem over a structured disease knowledge base.[web:6][web:12] Given a set of patient‑reported symptoms, the system returns a ranked list of candidate diseases, jointly leveraging neural disease embeddings and fuzzy logic over curated symptom frequencies.[web:7][web:15]
 
 The approach supports **zero‑shot generalization** to rare diseases that are never seen during supervised training by embedding both common and rare diseases into a shared latent phenotypic space.[web:7]
-
+Code with output: https://colab.research.google.com/drive/1zAOkLe0p88MYb_ehuZYSS-uAR3HosIeZ?usp=drive_link
 ---
 
 ## Core Ideas
